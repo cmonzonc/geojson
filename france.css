@@ -1,0 +1,13 @@
+#component .tooltip {visibility: hidden}
+#component:hover .tooltip {
+    visibility: visible;
+}
+.tooltip text {
+    fill: black;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.tooltip rect {
+    fill: yellow;
+    stroke: blue;
+}
