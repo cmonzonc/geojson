@@ -1,4 +1,4 @@
-date,states,fips,cases,deaths
+date,state,fips,cases,deaths
 3/6/2020,LIMA,15,1,0
 3/7/2020,AREQUIPA,04,1,0
 3/7/2020,LIMA,15,4,0
